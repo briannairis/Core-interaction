@@ -1,0 +1,21 @@
+
+body {
+    color: #f2ecec;
+    background-color: #22ecec;
+    text-align: center;
+    font-size: 75px;
+    italic: true;
+    bold: true;
+}
+h1, h2 {
+    color: #b66de7;
+    font-family: 'monospace';
+    font-size: 60px;
+    text-align: left;
+}
+p {
+    color: #ec4dbf;
+    font-family: 'monospace';
+    font-size: 50px;
+    text-align: left;
+}
