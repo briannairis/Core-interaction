@@ -1,0 +1,40 @@
+body {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  background-color: white;
+}
+
+h1 {
+  font-family: "Brush Script MT", "Lucida Handwriting", "Apple Chancery", cursive;
+  font-weight: normal;
+  font-size: 96px;
+  color: #4b1d6e;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 60px;
+  padding-bottom: 90px;
+}
+
+.boxes {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.box {
+  display: inline-block;
+  width: 250px;
+  height: 190px;
+  margin-left: 12px;
+  margin-right: 12px;
+  background-color: #4b1d6e;
+  border-radius: 22px;
+  font-family: "Brush Script MT", "Lucida Handwriting", "Apple Chancery", cursive;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  line-height: 190px;
+  text-decoration: none;
+}
